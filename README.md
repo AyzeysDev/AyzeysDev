@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing scalable Cloud Applications 
 
 Tech Stack:
-Java, JavaScript, React JS, Node.js, AWS Serverless, Docker, Kubernetes
+Java, C#, JavaScript, React JS, Node.js, AWS Serverless, Docker, Kubernetes
